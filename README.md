@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/6f67fcd3-a136-43e1-9f05-fad2e548f2a7)
 
 # Greetings! I'm Aakif (A.K.A: Omar)
-◆ A Frontend Web Developer
-◆ Studying FWD Course at BCIT
-◆ Currently Learning: React, Wordpress, Php, mySQL
+◆ A Frontend Web Developer <br>
+◆ Studying FWD Course at BCIT <br>
+◆ Currently Learning: React, Wordpress, Php, mySQL <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hafizau/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Auvance) 
