@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/6f67fcd3-a136-43e1-9f05-fad2e548f2a7)
 
 # 💫 About Me:
 ◆ Frontend Web Developer<br>◆<br>◆ <br>◆ <br>◆ 
