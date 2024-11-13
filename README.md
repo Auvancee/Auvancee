@@ -7,11 +7,12 @@ Mainly a frontend developer & UI/UX designer blending aesthetics within the indu
  Studying FWD Course at BCIT <br>
  Currently Learning: React, Wordpress, Php, mySQL <br>
 
-### 🌐 Languages Familiar With:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress)](https://skillicons.dev)
+### ⚙️ Languages Familiar With:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
 
 
-### 🌐 Languages Currently Learning:
+### 🌱 Currently Learning:
+[![My Skills](https://skillicons.dev/icons?i=sass,wordpress,php,mysql,react)](https://skillicons.dev)
 
 
 
