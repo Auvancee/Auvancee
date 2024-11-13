@@ -9,7 +9,7 @@ Mainly a frontend developer & UI/UX designer blending aesthetics within the indu
 
 ### 🌐 Languages Familiar With:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,wordpress)](https://skillicons.dev)
-<iconify-icon icon="skill-icons:elysia-dark"></iconify-icon>
+
 
 ### 🌐 Languages Currently Learning:
 
