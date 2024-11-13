@@ -8,12 +8,13 @@ Mainly a frontend developer & UI/UX designer blending aesthetics within the indu
  Currently Learning: React, Wordpress, Php, mySQL <br>
 
 ### ⚙️ Familiar With:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev) <br> 
+[![My Skills](https://skillicons.dev/icons?i=pr,ps,xd)](https://skillicons.dev)
 
 
 ### 🌱 Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=sass,wordpress,php,mysql,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,wordpress,php,mysql,react)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=ai,figma)](https://skillicons.dev)
 
 
 
