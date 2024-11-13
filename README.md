@@ -3,9 +3,6 @@
 # Personal Synopsis
 Mainly a frontend developer & UI/UX designer blending aesthetics within the industry of technology building custom slick & futuristic websites with professionalism being the centre of my work.
 
- 
- Studying FWD Course at BCIT <br>
- Currently Learning: React, Wordpress, Php, mySQL <br>
 
 ### ⚙️ Familiar With:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev) <br> 
