@@ -10,7 +10,7 @@ Mainly a frontend developer & UI/UX designer blending aesthetics within the indu
 
 
 ### 🌱 Currently Learning:
-[![My Skills](https://skillicons.dev/icons?i=sass,wordpress,php,mysql,react)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,sass,wordpress,php,mysql,react)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=ai,figma)](https://skillicons.dev)
 
 
