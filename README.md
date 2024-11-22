@@ -11,13 +11,17 @@ Mainly a frontend developer & UI/UX designer blending aesthetics within the indu
 
 ### ■ Currently Learning ■
 [![My Skills](https://skillicons.dev/icons?i=nodejs,jquery,sass,wordpress,php,mysql,react)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=ai,figma)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai,indesign,figma)
+
+
 
 ### ■ Social-Media ■
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hafizau/) 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://codepen.io/Auvance) 
 [![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/Auvance) 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/therealAuvance) 
+
+
 
 
 
