@@ -1,13 +1,11 @@
 # Greetings! I'm Aakif (A.K.A: Omar)
 ![image](https://github.com/user-attachments/assets/6f67fcd3-a136-43e1-9f05-fad2e548f2a7)
 # Personal Synopsis
-A Professional Frontend Developer & UI/UX Designer possessing unique aesthetic design core to building futuristic websites using the latest software development tech stack below. My expertise is not limitied to just websites alone, rather, my creativity has dwelled into Graphic Design & Video Production for over 8 years prior to Web Development. <br>
+A Professional <ins>**Frontend Developer**</ins> & <ins>**UI/UX Designer**</ins> possessing unique aesthetic design core to building futuristic websites using the latest software development tech stack below. My expertise is not limitied to just websites alone, rather, my creativity has dwelled into <ins>**Graphic Design**</ins> & <ins>**Video Production**</ins> for over 8 years prior to <ins>**Web Development.**</ins> <br>
 
-My skill set includes crafting visually captivating logos, thumbnails, graphical artwork, flyers, and banner ads that elevate branding and visual communication. Simultaneously, I specialize in producing and editing compelling video content for YouTube, Instagram, and TikTok, tailored to various formats ranging from engaging short-form clips to polished long-form productions. These combined skills enable me to deliver end-to-end visual and multimedia solutions that effectively communicate and connect with audiences.
+My skill set includes crafting visually Captivating <ins>**logos, thumbnails, graphical artwork, flyers, and banner ads**</ins> that elevate branding and visual communication. Simultaneously, I specialize in producing and editing compelling video content for <ins>**YouTube, Instagram, and TikTok,**</ins> tailored to various formats ranging from engaging short-form clips to polished long-form productions. These combined skills enable me to deliver end-to-end visual and multimedia solutions that effectively communicate and connect the brand with its audience.
 
-Don't be hesitant on reaching out! Let's connect and work together to transform the digital era.
-
-(Under Maintenance)
+**🔶 Don't be hesitant on reaching out! Let's connect and work together to transform the digital era! 🔶** 
 
 
 ### ■ Familiar With ■
