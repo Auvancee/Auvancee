@@ -1,13 +1,9 @@
 # Greetings! I'm Aakif (A.K.A: Omar)
 ![image](https://github.com/user-attachments/assets/6f67fcd3-a136-43e1-9f05-fad2e548f2a7)
 # Personal Synopsis
-A Professional Frontend Developer & UI/UX Designer possessing unique aesthetic design core to building futureuing websites using the latest software development tech stack; HTML, CSS, JS, REACT & MORE!
-My experties is not limitied to websites alone, rather 
+A Professional Frontend Developer & UI/UX Designer possessing unique aesthetic design core to building futuristic websites using the latest software development tech stack below. My expertise is not limitied to just websites alone, rather, my creativity has dwelled into Graphic Design & Video Production for over 8 years prior to Web Development. <br>
 
-In contrast, My Graphic Design expertise with over 6 years of experience includes; crafting logos, thumbnails, graphical artwork, flyers, and banner ads that enhance branding and visual communication. Check My Behance!
-
-With 8 years of experience, My Video Editing specialization including producing and editing content for YouTube, Instagram, and TikTok. This spans a variety of formats, from engaging short-form videos to polished 
-long-form productions, effectively supporting video content strategies. 
+My skill set includes crafting visually captivating logos, thumbnails, graphical artwork, flyers, and banner ads that elevate branding and visual communication. Simultaneously, I specialize in producing and editing compelling video content for YouTube, Instagram, and TikTok, tailored to various formats ranging from engaging short-form clips to polished long-form productions. These combined skills enable me to deliver end-to-end visual and multimedia solutions that effectively communicate and connect with audiences.
 
 Don't be hesitant on reaching out! Let's connect and work together to transform the digital era.
 
