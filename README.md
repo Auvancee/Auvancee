@@ -9,13 +9,13 @@ My skill set includes crafting visually Captivating <ins>**logos, thumbnails, gr
 
 
 ### ■ Familiar With ■
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py)<br> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,nodejs,py,php,)<br> 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap) <br>
 [![My Skills](https://skillicons.dev/icons?i=pr,ps,xd)](https://skillicons.dev)
 
 
 ### ■ Currently Learning ■
-[![My Skills](https://skillicons.dev/icons?i=nodejs,jquery,sass,wordpress,php,mysql,react)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=jquery,wordpress,php,mysql,react)](https://skillicons.dev) <br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai,indesign,figma)
 
 ### ■ Tool Usage ■
