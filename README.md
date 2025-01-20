@@ -19,7 +19,7 @@ My skill set includes crafting visually Captivating <ins>**logos, thumbnails, gr
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai,indesign,figma)
 
 ### ■ Tool Usage ■
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,github,git,vscode,pycharm)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,github,git,vscode,vim,pycharm,notion,obsidian)
 
 
 
