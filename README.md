@@ -11,17 +11,15 @@ My skill set includes crafting visually Captivating <ins>**logos, thumbnails, gr
 ### ■ Familiar With ■
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,nodejs,py,php,)<br> 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap) <br>
-[![My Skills](https://skillicons.dev/icons?i=pr,ps,xd)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,mysql) <br>
+[![My Skills](https://skillicons.dev/icons?i=pr,ps,xd)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai,indesign,figma)
 
 
 ### ■ Currently Learning ■
-[![My Skills](https://skillicons.dev/icons?i=jquery,wordpress,php,mysql,react)](https://skillicons.dev) <br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai,indesign,figma)
+[![My Skills](https://skillicons.dev/icons?i=jquery,react)](https://skillicons.dev) <br>
 
 ### ■ Tool Usage ■
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,github,git,vscode,vim,pycharm,notion,obsidian)
-
-
 
 ### ■ Social-Media ■
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hafizau/)
