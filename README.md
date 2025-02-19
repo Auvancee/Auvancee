@@ -10,7 +10,7 @@ My skill set includes crafting visually Captivating <ins>**logos, thumbnails, gr
 
 ### ✦ Familiar With ✦
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,py,php,)<br> 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap,react,vite) &nbsp;<img src="https://github.com/user-attachments/assets/63257040-9bdd-4041-b57d-9d91760ab52d" alt="Splide" width="47" height="47"> <br> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap,react,vite) &nbsp;<img src="https://github.com/user-attachments/assets/63257040-9bdd-4041-b57d-9d91760ab52d" alt="Splide" width="47" height="47"> &nbsp;<img src="https://github.com/user-attachments/assets/f1d5f2f2-98ab-4e44-a812-63142a464281" alt="Splide" width="47" height="47"> <br> 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,mysql) <br>
 [![My Skills](https://skillicons.dev/icons?i=pr,ps,xd)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai,indesign,figma)
 
