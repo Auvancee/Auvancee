@@ -2,9 +2,7 @@
 ![Auvance Banner](https://github.com/user-attachments/assets/9a54f7bf-807b-4170-8160-efaaaa581004)
 
 # Personal Synopsis
-A Professional <ins>**Frontend Developer**</ins> & <ins>**UI/UX Designer**</ins> possessing unique aesthetic design core to building futuristic websites using the latest software development tech stack below. My expertise is not limitied to just websites alone, rather, my creativity has dwelled into <ins>**Graphic Design**</ins> & <ins>**Video Production**</ins> for over 8 years prior to <ins>**Web Development.**</ins> <br>
-
-My skill set includes crafting visually Captivating <ins>**logos, thumbnails, graphical artwork, flyers, and banner ads**</ins> that elevate branding and visual communication. Simultaneously, I specialize in producing and editing compelling video content for <ins>**YouTube, Instagram, and TikTok,**</ins> tailored to various formats ranging from engaging short-form clips to polished long-form productions. These combined skills enable me to deliver end-to-end visual and multimedia solutions that effectively communicate and connect the brand with its audience.
+A Professional <ins>**Frontend Developer**</ins> & <ins>**UX/UI Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Familiar with the trusty trio <ins>**HTML, CSS, JavaScript**</ins> along with Librarires; <ins>**React, GSAP, Splide.js, Lenis.js**</ins> <br>
 
 **🔶 Don't be hesitant on reaching out! Let's connect and work together to transform the digital era! 🔶** 
 
@@ -37,6 +35,7 @@ My skill set includes crafting visually Captivating <ins>**logos, thumbnails, gr
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Auvancee&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auvancee&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+
   
 </details>
 
