@@ -6,8 +6,8 @@
 A Professional <ins>**Frontend Developer**</ins> & <ins>**UX/UI Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Experienced with <ins>**HTML, CSS,
 JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Driven to <ins>**contribute to society, build amazing projects**</ins> & overall <ins>**upskill myself to new heights.**</ins> <br>
 
-★ <i>🇩‌🇴‌🇳‌'🇹‌ 🇧‌🇪‌ 🇭‌🇪‌🇸‌🇮‌🇹‌🇦‌🇳‌🇹‌ 🇴‌🇳‌ 🇷‌🇪‌🇦‌🇨‌🇭‌🇮‌🇳‌🇬‌ 🇴‌🇺‌🇹‌</i> ★ <br>
-★ <i>🇮‌'🇲‌ 🇱‌🇴‌🇴‌🇰‌🇮‌🇳‌🇬‌ 🇹‌🇴‌ 🇨‌🇴‌🇳‌🇳‌🇪‌🇨‌🇹‌ 🇼‌🇮‌🇹‌🇭‌ 🇵‌🇪‌🇴‌🇵‌🇱‌🇪‌ 🇹‌🇭‌🇦‌🇹‌ 🇸‌🇭‌🇦‌🇷‌🇪‌ 🇹‌🇭‌🇪‌ 🇸‌🇦‌🇲‌🇪‌ 🇲‌🇮‌🇳‌🇩‌🇸‌🇪‌🇹</i> ★‌
+★ <i>Don't be hesitant on reaching out</i> ★ <br>
+★ <i>I'm looking to broaden my connection with like minded people o/</i> ★‌
 
 ### ✦ Familiar With ✦
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,py,php,)<br> 
