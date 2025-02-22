@@ -1,4 +1,5 @@
-# Greetings! I'm Aakif Umar
+# Greetings I'm Aakif Umar / السلام عليكم
+
 ![Auvance Banner](https://github.com/user-attachments/assets/9a54f7bf-807b-4170-8160-efaaaa581004)
 
 # Personal Synopsis
