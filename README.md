@@ -2,10 +2,11 @@
 ![Auvance Banner](https://github.com/user-attachments/assets/9a54f7bf-807b-4170-8160-efaaaa581004)
 
 # Personal Synopsis
-A Professional <ins>**Frontend Developer**</ins> & <ins>**UX/UI Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Familiar with the trusty trio <ins>**HTML, CSS, JavaScript**</ins> along with Librarires; <ins>**React, GSAP, Splide.js, Lenis.js**</ins> <br>
+A Professional <ins>**Frontend Developer**</ins> & <ins>**UX/UI Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Experienced with <ins>**HTML, CSS,
+JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Driven to <ins>**contribute to society, build amazing projects**</ins> & overall <ins>**upskill myself to new heights.**</ins> <br>
 
-**🔶 Don't be hesitant on reaching out! Let's connect and work together to transform the digital era! 🔶** 
-
+★ <i>🇩‌🇴‌🇳‌'🇹‌ 🇧‌🇪‌ 🇭‌🇪‌🇸‌🇮‌🇹‌🇦‌🇳‌🇹‌ 🇴‌🇳‌ 🇷‌🇪‌🇦‌🇨‌🇭‌🇮‌🇳‌🇬‌ 🇴‌🇺‌🇹‌</i> ★ <br>
+★ <i>🇮‌'🇲‌ 🇱‌🇴‌🇴‌🇰‌🇮‌🇳‌🇬‌ 🇹‌🇴‌ 🇨‌🇴‌🇳‌🇳‌🇪‌🇨‌🇹‌ 🇼‌🇮‌🇹‌🇭‌ 🇵‌🇪‌🇴‌🇵‌🇱‌🇪‌ 🇹‌🇭‌🇦‌🇹‌ 🇸‌🇭‌🇦‌🇷‌🇪‌ 🇹‌🇭‌🇪‌ 🇸‌🇦‌🇲‌🇪‌ 🇲‌🇮‌🇳‌🇩‌🇸‌🇪‌🇹</i> ★‌
 
 ### ✦ Familiar With ✦
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,py,php,)<br> 
