@@ -1,5 +1,6 @@
 # Greetings! I'm Aakif Umar
-![image](https://github.com/user-attachments/assets/6f67fcd3-a136-43e1-9f05-fad2e548f2a7)
+![Auvance Banner](https://github.com/user-attachments/assets/9a54f7bf-807b-4170-8160-efaaaa581004)
+
 # Personal Synopsis
 A Professional <ins>**Frontend Developer**</ins> & <ins>**UI/UX Designer**</ins> possessing unique aesthetic design core to building futuristic websites using the latest software development tech stack below. My expertise is not limitied to just websites alone, rather, my creativity has dwelled into <ins>**Graphic Design**</ins> & <ins>**Video Production**</ins> for over 8 years prior to <ins>**Web Development.**</ins> <br>
 
