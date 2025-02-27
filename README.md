@@ -37,7 +37,6 @@ JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Dri
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Auvancee&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auvancee&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
-
   
 </details>
 
