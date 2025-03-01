@@ -40,6 +40,5 @@ JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Dri
   
 </details>
 
-
 ### ✱ Help Out A Brother ✱
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Auvance) 
