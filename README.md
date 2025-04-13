@@ -1,6 +1,6 @@
 # Greetings I'm Aakif Umar / السلام عليكم
 
-![Auvance Banner](https://github.com/user-attachments/assets/9a54f7bf-807b-4170-8160-efaaaa581004)
+![1744492752437](https://github.com/user-attachments/assets/0f93b49b-3947-46ee-b542-8da0a2b774de)
 
 # Personal Synopsis
 A Professional <ins>**Frontend Developer**</ins> & <ins>**UX/UI Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Experienced with <ins>**HTML, CSS,
