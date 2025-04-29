@@ -3,7 +3,7 @@
 ![1744492752437](https://github.com/user-attachments/assets/0f93b49b-3947-46ee-b542-8da0a2b774de)
 
 # Personal Synopsis
-A Professional <ins>**Frontend Developer**</ins> & <ins>**UX/UI Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Experienced with <ins>**HTML, CSS,
+A Professional <ins>**Frontend Developer**</ins> & <ins>**Web Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Experienced with <ins>**HTML, CSS,
 JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Driven to <ins>**contribute to society, build amazing projects**</ins> & overall <ins>**upskill myself to new heights.**</ins> <br>
 
 <i>Don't be hesitant on reaching out, I'm looking to broaden my connection with like minded people</i> <br>
