@@ -1,6 +1,7 @@
 # Greetings I'm Aakif Umar / السلام عليكم
 
-![1744492752437](https://github.com/user-attachments/assets/0f93b49b-3947-46ee-b542-8da0a2b774de)
+![1744492752437](https://github.com/user-attachments/assets/351a99e6-bbee-45c2-b129-b171b878199e)
+
 
 # Personal Synopsis
 A Professional <ins>**Frontend Developer**</ins> & <ins>**Web Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Experienced with <ins>**HTML, CSS,
