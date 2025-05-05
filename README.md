@@ -18,7 +18,7 @@ JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Dri
 
 
 ### ✦ Currently Learning ✦
-[![My Skills](https://skillicons.dev/icons?i=jquery,threejs)](https://skillicons.dev) <br> 
+[![My Skills](https://skillicons.dev/icons?i=jquery,threejs,expressjs)](https://skillicons.dev) <br> 
 
 
 ### ✦ Tool Usage ✦
