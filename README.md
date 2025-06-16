@@ -1,31 +1,31 @@
 # Greetings I'm Aakif Umar / السلام عليكم
 
-![1744492752437](https://github.com/user-attachments/assets/351a99e6-bbee-45c2-b129-b171b878199e)
-
-
-# Personal Synopsis
+## 🌿 Personal Synopsis:
 A Professional <ins>**Frontend Developer**</ins> & <ins>**Web Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Experienced with <ins>**HTML, CSS,
 JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Driven to <ins>**contribute to society, build amazing projects**</ins> & overall <ins>**upskill myself to new heights.**</ins> <br>
 
 <i>Don't be hesitant on reaching out, I'm looking to broaden my connection with like minded people</i> <br>
-‌<i>Connect with me on <ins>**LinkedIn, GitHub or Discord!**</ins>
+‌<i>Connect with me on <ins>**LinkedIn, GitHub or Discord!**</i></ins>
 
-### ✦ Familiar With ✦
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,py,php,)<br> 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gsap,react,vite) &nbsp;<img src="https://github.com/user-attachments/assets/63257040-9bdd-4041-b57d-9d91760ab52d" alt="Splide" width="47" height="47"> &nbsp;<img src="https://github.com/user-attachments/assets/f1d5f2f2-98ab-4e44-a812-63142a464281" alt="Splide" width="47" height="47"> <br> 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,mysql,wordpress) <br>
+
+## ⚙️ Main Tech Stack:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,gsap,react,vite) &nbsp;<img src="https://github.com/user-attachments/assets/63257040-9bdd-4041-b57d-9d91760ab52d" alt="Splide" width="47" height="47"> &nbsp;<img src="https://github.com/user-attachments/assets/f1d5f2f2-98ab-4e44-a812-63142a464281" alt="Splide" width="47" height="47"> <br> 
 [![My Skills](https://skillicons.dev/icons?i=pr,ps,xd)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai,indesign,figma)
 
 
-### ✦ Currently Learning ✦
-[![My Skills](https://skillicons.dev/icons?i=jquery,threejs,expressjs)](https://skillicons.dev) <br> 
+## 🌿 Familiar With:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,mysql,wordpress)
 
 
-### ✦ Tool Usage ✦
+## 🌱 Currently Learning: 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,tailwind)](https://skillicons.dev) <br> 
+
+
+### 🔨 Tool Usage ✦
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,github,git,vscode,vim,pycharm,notion,obsidian)
 
 
-### ✦ Social-Media ✦
+### 📱 Social-Media 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hafizau/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://codepen.io/Auvance) 
 [![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/Auvance) 
