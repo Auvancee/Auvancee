@@ -5,7 +5,7 @@
 ✦ Documenting a journey on rebuilding the foundation in how I think and solve as a developer on LinkedIn <br>
 ✦ Currently pursuing an Associate Degree of Computer Science <br>
 ✦ During my freetime, I play games, connect with my family & nature and hunting for old cars. <br>
-✦ ‌<i>Connect with me on **[LinkedIn](www.linkedin.com/in/hafizau/), [Github](https://github.com/Auvancee) or [Discord: auvance](https://discord.com)**</ins>
+✦ ‌Connect with me on **[LinkedIn](www.linkedin.com/in/hafizau/), [Github](https://github.com/Auvancee) or [Discord: auvance](https://discord.com)**
 
 
 ## ⚙️ Main Tech Stack:
