@@ -1,11 +1,11 @@
 # Greetings I'm Aakif Umar / السلام عليكم
 
 ## 🌿 Personal Synopsis:
-A Professional <ins>**Frontend Developer**</ins> & <ins>**Web Designer**</ins> possessing unique aesthetic design core to building sleek websites using the latest software development tech stack below. Experienced with <ins>**HTML, CSS,
-JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Driven to <ins>**contribute to society, build amazing projects**</ins> & overall <ins>**upskill myself to new heights.**</ins> <br>
-
-<i>Don't be hesitant on reaching out, I'm looking to broaden my connection with like minded people</i> <br>
-‌<i>Connect with me on <ins>**LinkedIn, GitHub or Discord!**</i></ins>
+✦ I'm a creative developer, aim to build purposeful websites that look sick. <br>
+✦ Documenting a journey on rebuilding the foundation in how I think and solve as a developer on LinkedIn <br>
+✦ Currently pursuing an Associate Degree of Computer Science <br>
+✦ During my freetime, I play games, connect with my family & nature and hunting for old cars. <br>
+✦ ‌<i>Connect with me on **[LinkedIn](www.linkedin.com/in/hafizau/), [Github](https://github.com/Auvancee) or [Discord: auvance](https://discord.com)**</ins>
 
 
 ## ⚙️ Main Tech Stack:
@@ -18,14 +18,14 @@ JavaScript, SASS/SCSS, PHP, MySQL, WordPress, React**</ins> & More! Actively Dri
 
 
 ## 🌱 Currently Learning: 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,tailwind)](https://skillicons.dev) <br> 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,tailwind,firebase,supabase)](https://skillicons.dev) <br> 
 
 
-### 🔨 Tool Usage ✦
+### 🔨 Tool Usage:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,github,git,vscode,vim,pycharm,notion,obsidian)
 
 
-### 📱 Social-Media 
+### 📱 Social-Media:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hafizau/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://codepen.io/Auvance) 
 [![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/Auvance) 
