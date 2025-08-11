@@ -1,20 +1,17 @@
 # Greetings I'm Aakif Umar / السلام عليكم
 
-## 🌿 Personal Synopsis:
+## ✦ Personal Synopsis:
 ✦ I'm a creative developer, aim to build purposeful websites that look sick. <br>
-✦ Documenting a journey on rebuilding the foundation in how I think and solve as a developer on LinkedIn <br>
+✦ Documenting a journey on rebuilding the foundation in how I think and solve as a developer <br>
 ✦ Currently pursuing an Associate Degree of Computer Science <br>
-✦ During my freetime, I play games, connect with my family & nature and hunting for old cars. <br>
 ✦ ‌Connect with me on **[LinkedIn](www.linkedin.com/in/hafizau/), [Github](https://github.com/Auvancee) or [Discord: auvance](https://discord.com)**
 
 
-## ⚙️ Main Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=vite,react,nextjs,tailwind)](https://skillicons.dev) <br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,gsap) &nbsp;<img src="https://github.com/user-attachments/assets/63257040-9bdd-4041-b57d-9d91760ab52d" alt="Splide" width="47" height="47"> &nbsp;<img src="https://github.com/user-attachments/assets/f1d5f2f2-98ab-4e44-a812-63142a464281" alt="Splide" width="47" height="47"> <br> 
-[![My Skills](https://skillicons.dev/icons?i=pr,ps,xd)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ai,indesign,figma)
+## ♙ Main Tech Stack:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vite,react,nextjs,tailwind,gsap) &nbsp;<img src="https://github.com/user-attachments/assets/63257040-9bdd-4041-b57d-9d91760ab52d" alt="Splide" width="47" height="47"> &nbsp;<img src="https://github.com/user-attachments/assets/f1d5f2f2-98ab-4e44-a812-63142a464281" alt="Splide" width="47" height="47"> <br> 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,xd,ai,indesign,ps)
 
-
-## 🌿 Familiar With:
+## ♙ Other Technologies
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,mysql,wordpress)
 
 
