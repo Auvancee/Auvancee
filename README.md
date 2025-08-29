@@ -12,8 +12,8 @@
 <details>
 <summary>Github Stats</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Auvancee&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auvancee&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hafizauo&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizauo&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
   
 </details>
 
